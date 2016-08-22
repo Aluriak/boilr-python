@@ -1,0 +1,8 @@
+# {{PackageName}}
+{{Description}}
+
+
+
+## dependencies
+
+    pip install -r requirements

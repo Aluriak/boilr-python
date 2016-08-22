@@ -1,0 +1,24 @@
+{
+    "AuthorName": "Lucas Bourneuf",
+    "AuthorGithubName": "Aluriak",
+    "AuthorMail": "lucas.bourneuf@laposte.net",
+    "Year": "2016",
+
+    "PackageName": "",
+    "Description": "",
+    "Keywords": "",
+    "Version": "0.0.1",
+    "GithubRepository": "",
+
+    "UseDocopt": [true, false],
+    "UseStdlib": [true, false],
+
+    "PythonVersion": ["3.x", "both", "2.x"],
+    "License": [
+        "GNU GPL v3",
+        "Apache Software License 2.0",
+        "MIT",
+        "Public Domain",
+        "WTFPL"
+    ]
+}

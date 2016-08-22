@@ -1,0 +1,2 @@
+include LICENCE MANIFEST.in requirements.txt README.mkd
+recursive-include {{PackageName}}/logs README.txt

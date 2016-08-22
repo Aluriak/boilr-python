@@ -1,0 +1,20 @@
+# boilr template for Python packages
+Provides a simple python package [boilr](https://github.com/tmrts/boilr/) template.
+Using it requires [boilr](https://github.com/tmrts/boilr/).
+
+
+## features
+- [X] optional docopt & stdlib imports
+- [X] ready-to-use defined `setup.py`
+- [X] complete Makefile (run main, unit tests, pypi)
+- [ ] basic troves classifiers
+
+
+## usage
+Register the template as `python`:
+
+    boilr template download aluriak/boilr-python python
+
+Use it (dot is mandatory):
+
+    boilr template use python .

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.log
+*.log.*
+.*.swp
+.*.swo
+pip-selfcheck.json
+dist/
+.zcache/
+
+venv/
+Session.vim
+
+asp_py_lextab.py
+asp_py_parsetab.py
+{{PackageName}}.egg-info/
